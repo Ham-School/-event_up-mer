@@ -1,1 +1,1 @@
-# -event_up-mer
+Entity Relationship Model (ER)
